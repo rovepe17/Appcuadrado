@@ -1,0 +1,5 @@
+c:\users\rociovera\documents\visual studio 2012\Projects\Appcuadrado\Appcuadrado\bin\Debug\Appcuadrado.exe.config
+c:\users\rociovera\documents\visual studio 2012\Projects\Appcuadrado\Appcuadrado\bin\Debug\Appcuadrado.exe
+c:\users\rociovera\documents\visual studio 2012\Projects\Appcuadrado\Appcuadrado\bin\Debug\Appcuadrado.pdb
+c:\users\rociovera\documents\visual studio 2012\Projects\Appcuadrado\Appcuadrado\obj\Debug\Appcuadrado.exe
+c:\users\rociovera\documents\visual studio 2012\Projects\Appcuadrado\Appcuadrado\obj\Debug\Appcuadrado.pdb
